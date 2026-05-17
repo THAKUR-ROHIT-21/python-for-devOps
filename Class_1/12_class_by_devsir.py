@@ -55,15 +55,13 @@
 #     r_v=i+r_v
 # print(r_v)
 
-# v="ro"
-# r= ""
-# for i in v:
-#     r = i+r
-#     print(r)
-# "" = r + ""
-# r = o + r
-# or
-# print(r)
+v="ro"
+r= ""
+for i in v:
+    r = i+r
+    print(r)
+
+print(r)
 
 # v= "python"
 # size = len(v)
