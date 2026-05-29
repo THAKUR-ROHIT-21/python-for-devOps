@@ -13,3 +13,41 @@ print("And his office is in Noida")"""
 #Mix Text and Numbers
 #print("Sonu is a boy.He is",17,"year oid")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello, World!("print")
+
+
+
